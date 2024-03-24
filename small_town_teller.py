@@ -96,7 +96,7 @@ if __name__ == "__main__":
     with open('KrisBank.pickle', 'wb') as handle:
         zc_bank = pickle.load(handle)
 
-        runsomething(zc_bank)
+       #runsomething(zc_bank)
 
 
     zc_bank = Bank()
